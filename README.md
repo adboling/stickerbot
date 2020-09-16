@@ -1,0 +1,2 @@
+# stickerbot
+I want stickers.
